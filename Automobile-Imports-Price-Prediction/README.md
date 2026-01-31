@@ -1,11 +1,3 @@
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-
-
 # Automobile Price Prediction
 
 This project predicts car prices using machine learning techniques.
