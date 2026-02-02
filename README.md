@@ -53,7 +53,7 @@ By analyzing these features, a supervised regression model is trained to accurat
  ## Automobile-Price-Prediction/
 │
 ├── data/
-│   └── automobile.csv
+│   └── Automobile.csv
 │
 ├── notebook/
 │   └── Automobile_Price_Prediction.ipynb
