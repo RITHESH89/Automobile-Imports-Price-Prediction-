@@ -61,6 +61,18 @@ By analyzing these features, a supervised regression model is trained to accurat
 ├── README.md
 └── requirements.txt
 
+## Results & Model Performance
+
+After training and evaluating multiple regression models, Random Forest Regressor delivered the best performance for automobile price prediction.
+
+| Model                       | R² Score | Mean Absolute Error (MAE) |
+| --------------------------- | -------- | ------------------------- |
+| Linear Regression           | 0.78     | ₹2,450                    |
+| Decision Tree Regressor     | 0.83     | ₹1,980                    |
+| **Random Forest Regressor** | **0.87** | **₹1,520**                |
+
+## Random Forest Regressor achieved the highest R² score and the lowest MAE, indicating better accuracy and generalization compared to other models.
+
 
 ## Model Evaluation
 - The model performance is evaluated using:
